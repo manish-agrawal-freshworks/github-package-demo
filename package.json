@@ -1,5 +1,5 @@
 {
-  "name": "@mandroid/github-package-demo",
+  "name": "@manish-agrawal-freshworks/github-package-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "repository": {
-    "url": "https://github.com/mandroid/github-package-demo.git"
+    "url": "https://github.com/manish-agrawal-freshworks/github-package-demo.git"
   },
   "license": "ISC",
   "description": ""
