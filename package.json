@@ -1,5 +1,5 @@
 {
-  "name": "@manish-agrawal-freshworks/github-package-demo",
+  "name": "@mandroid/github-package-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
